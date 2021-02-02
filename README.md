@@ -65,4 +65,4 @@ If you wish to run Crop3D-Mobile from the code, you will need to set up Python o
 
 Please see the README.docx file that is included in this repository. 
 
-We have a Windows .exe file you can download.
+We have a Windows .exe (Crop3D-Mobile-1.0.zip)  file you can download.
