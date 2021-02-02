@@ -1,4 +1,3 @@
-# LiDAR
 # Crop3D-Mobile
 
 Yulei Zhu<sup>1</sup>, Gang Sun<sup>1</sup>, Guohui Ding <sup>1</sup>, Jie Zhou<sup>1</sup>,Mingxing Wen<sup>1</sup>,Xiu-e Wang<sup>1</sup>,Joshua Colmer<sup>3</sup>,Eric S Ober<sup>2</sup>,Simon Griffiths<sup>4</sup>, Ji Zhou<sup>1,2*</sup>
