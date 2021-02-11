@@ -1,14 +1,10 @@
 # Crop3D-Mobile
 
-Yulei Zhu<sup>1</sup>, Gang Sun<sup>1</sup>, Guohui Ding <sup>1</sup>, Jie Zhou<sup>1</sup>,Mingxing Wen<sup>1</sup>,Xiu-e Wang<sup>1</sup>,Joshua Colmer<sup>3</sup>,Eric S Ober<sup>2</sup>,Simon Griffiths<sup>4</sup>, Ji Zhou<sup>1,2*</sup>
+Yulei Zhu<sup>1</sup>, Gang Sun<sup>1</sup>, Guohui Ding <sup>1</sup>, Jie Zhou<sup>1</sup>,Mingxing Wen<sup>1</sup>,Xiu-e Wang<sup>1</sup>, Ji Zhou<sup>1,2*</sup>
 
-<sup>1</sup>1State Key Laboratory of Crop Genetics & Germplasm Enhancement, Plant Phenomics Research Center, College of Engineering, Jiangsu Collaborative Innovation Center for Modern Crop Production co-sponsored by Province and Ministry, Nanjing Agricultural University, Nanjing 210095, China  
+<sup>1</sup>State Key Laboratory of Crop Genetics & Germplasm Enhancement, Plant Phenomics Research Center, College of Engineering, College of Agriculture, Jiangsu Collaborative Innovation Center for Modern Crop Production co-sponsored by Province and Ministry, Nanjing Agricultural University, Nanjing 210095, China  
 
 <sup>2</sup>Cambridge Crop Research, National Institute of Agricultural Botany (NIAB), Cambridge CB3 0LE, UK  
-
-<sup>3</sup>Earlham Institute, Norwich Research Park, Norwich NR4 7UH, UK 
-
-<sup>4</sup>Crop Genetics, John Innes Centre, Norwich Research Park, Norwich NR4 7UH, UK
 
 <sup>*</sup>Correspondence: Ji.Zhou@NJAU.edu.cn or Ji.Zhou@NIAB.com
 
