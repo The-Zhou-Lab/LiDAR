@@ -45,13 +45,13 @@ If you wish to run Crop3D-Mobile from the code, you will need to set up Python o
    These include, but are not limited to:
    
        Laspy=1.7.0
-       Whitebox==1.3.0
+       Whitebox=1.3.0
        GDAL=3.1.4
        Rasterio=1.1.8
-       Open3d==0.11.2
-       mayavi==4.7.2
+       Open3d=0.11.2
+       mayavi=4.7.2
        Scikit-image=0.17.2
-       Opencv-python==4.4.0.46
+       Opencv-python=4.4.0.46
        Matplotlib =3.3.3
        Pandas=1.1.5
        Numpy=1.19.4
@@ -59,6 +59,4 @@ If you wish to run Crop3D-Mobile from the code, you will need to set up Python o
    
 ## Running Crop3D-Mobile
 
-Please see the README.docx file that is included in this repository. 
-
-We have a Windows .exe (Crop3D-Mobile-1.0.zip)  file you can download.
+Before using the software and source code, please see the README file on this repository. A compressed Windows (exe format, i.e. Crop3D-Mobile-1.0.zip) file can be downloaded from the release link as well.
