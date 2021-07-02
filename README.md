@@ -1,15 +1,19 @@
-# Crop3D-Mobile
+# CropQuant-3D
 
-Yulei Zhu<sup>1</sup>, Gang Sun<sup>1</sup>, Guohui Ding <sup>1</sup>, Jie Zhou<sup>1</sup>,Mingxing Wen<sup>1</sup>,Xiu-e Wang<sup>1</sup>, Ji Zhou<sup>1,2*</sup>
+Yulei Zhu<sup>1</sup>, Gang Sun<sup>1</sup>, Guohui Ding <sup>1</sup>, Jie Zhou<sup>1</sup>, Mingxing Wen<sup>1</sup>,<sup>2</sup>, Shichao Jin<sup>1</sup>, Qiang Zhao<sup>3</sup>, Joshua Colmer<sup>4</sup>, Yanfeng Ding<sup>1</sup>,Eric S. Ober<sup>5</sup>, Ji Zhou<sup>1,5*</sup>
 
-<sup>1</sup>State Key Laboratory of Crop Genetics & Germplasm Enhancement, Plant Phenomics Research Center, College of Engineering, College of Agriculture, Jiangsu Collaborative Innovation Center for Modern Crop Production co-sponsored by Province and Ministry, Nanjing Agricultural University, Nanjing 210095, China  
+<sup>1</sup>State Key Laboratory of Crop Genetics & Germplasm Enhancement, College of Engineering, College of Agriculture, Plant Phenomics Research Center, Academy for Advanced Interdisciplinary Studies, Jiangsu Collaborative Innovation Center for Modern Crop Production Co-sponsored by Province and Ministry, Nanjing Agricultural University, Nanjing 210095, China;
 
-<sup>2</sup>Cambridge Crop Research, National Institute of Agricultural Botany (NIAB), Cambridge CB3 0LE, UK  
+<sup>2</sup>Zhenjiang Institute of Agricultural Science, Jurong 212400, China;
 
-<sup>*</sup>Correspondence: Ji.Zhou@NJAU.edu.cn or Ji.Zhou@NIAB.com
+<sup>3</sup>National Center for Gene Research, CAS Center for Excellence in Molecular Plant Sciences, Chinese Academy of Sciences, Shanghai 200233, China;
+
+<sup>4</sup>Earlham Institute, Norwich Research Park, Norwich NR4 7UH, UK; 
+
+<sup>5</sup>Cambridge Crop Research, National Institute of Agricultural Botany (NIAB), Cambridge CB3 0LE, UK
 
 ## Install Python, Anaconda and Libraries
-If you wish to run Crop3D-Mobile from the code, you will need to set up Python on your system. 
+If you wish to run CropQuant-3D from the code, you will need to set up Python on your system. 
 
 1. Install Python releases:
    
@@ -57,6 +61,6 @@ If you wish to run Crop3D-Mobile from the code, you will need to set up Python o
        Numpy=1.19.4
        Scipy=1.5.3
    
-## Running Crop3D-Mobile
+## Running CropQuant-3D
 
-Before using the software and source code, please see the README file on this repository. A compressed Windows (exe format, i.e. Crop3D-Mobile-1.0.zip) file can be downloaded from the release link as well.
+Before using the software and source code, please see the README file on this repository. A compressed Windows (exe format, i.e. CropQuant-3D-2.0.zip) file can be downloaded from the release link as well.
