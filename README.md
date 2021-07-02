@@ -63,4 +63,4 @@ If you wish to run CropQuant-3D from the code, you will need to set up Python on
    
 ## Running CropQuant-3D
 
-Before using the software and source code, please see the README file on this repository. A compressed Windows (exe format, i.e. CropQuant-3D-2.0.zip) file can be downloaded from the release link as well.
+Before using the software and source code, please see the CropQuant-3D user guide.pdf file on this repository. A compressed Windows (exe format, i.e. CropQuant-3D.zip) file can be downloaded from the release link as well.
