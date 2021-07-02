@@ -23,9 +23,6 @@ If you wish to run CropQuant-3D from the code, you will need to set up Python on
    •	For Windows users, Python 3 release can be downloaded via: 
    https://www.python.org/downloads/windows/
    
-   •	For Mac OS users, Python 3 release can be downloaded via: 
-   https://www.python.org/downloads/mac-osx/
-   
    •	Crop3D-Mobile only supports Python 3
 
 2. Install Anaconda Python distribution:
@@ -35,9 +32,6 @@ If you wish to run CropQuant-3D from the code, you will need to set up Python on
    •	For Windows users, a detailed step-by-step installation guide can be found via: 
    https://docs.continuum.io/anaconda/install/windows 
    
-   •	For Mac OS users, a detailed step-by-step installation guide can be found via:
-   https://docs.continuum.io/anaconda/install/mac-os.html
-   
    •	An Anaconda Graphical installer can be found via: 
    https://www.continuum.io/downloads
 
@@ -45,7 +39,7 @@ If you wish to run CropQuant-3D from the code, you will need to set up Python on
 
 3. Install packages:
 
-   • Crop3D-Mobile uses a number of 3rd-party libraries that you may need to add to your conda environment.
+   • CropQuant-3D uses a number of 3rd-party libraries that you may need to add to your conda environment.
    These include, but are not limited to:
    
        Laspy=1.7.0
