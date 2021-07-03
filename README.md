@@ -1,16 +1,10 @@
 # CropQuant-3D
 
-Yulei Zhu<sup>1</sup>, Gang Sun<sup>1</sup>, Guohui Ding <sup>1</sup>, Jie Zhou<sup>1</sup>, Mingxing Wen<sup>1</sup>,<sup>2</sup>, Shichao Jin<sup>1</sup>, Qiang Zhao<sup>3</sup>, Joshua Colmer<sup>4</sup>, Yanfeng Ding<sup>1</sup>,Eric S. Ober<sup>5</sup>, Ji Zhou<sup>1,5*</sup>
+Yulei Zhu<sup>1</sup>, Gang Sun<sup>1</sup>, Jie Zhou<sup>1</sup>, Ji Zhou<sup>1,2*</sup>
 
 <sup>1</sup>State Key Laboratory of Crop Genetics & Germplasm Enhancement, College of Engineering, College of Agriculture, Plant Phenomics Research Center, Academy for Advanced Interdisciplinary Studies, Jiangsu Collaborative Innovation Center for Modern Crop Production Co-sponsored by Province and Ministry, Nanjing Agricultural University, Nanjing 210095, China;
 
-<sup>2</sup>Zhenjiang Institute of Agricultural Science, Jurong 212400, China;
-
-<sup>3</sup>National Center for Gene Research, CAS Center for Excellence in Molecular Plant Sciences, Chinese Academy of Sciences, Shanghai 200233, China;
-
-<sup>4</sup>Earlham Institute, Norwich Research Park, Norwich NR4 7UH, UK; 
-
-<sup>5</sup>Cambridge Crop Research, National Institute of Agricultural Botany (NIAB), Cambridge CB3 0LE, UK
+<sup>2</sup>Cambridge Crop Research, National Institute of Agricultural Botany (NIAB), Cambridge CB3 0LE, UK
 
 ## Install Python, Anaconda and Libraries
 If you wish to run CropQuant-3D from the code, you will need to set up Python on your system. 
