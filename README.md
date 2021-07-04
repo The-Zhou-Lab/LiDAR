@@ -6,6 +6,10 @@ Yulei Zhu<sup>1</sup>, Gang Sun<sup>1</sup>, Jie Zhou<sup>1</sup>, Ji Zhou<sup>1
 
 <sup>2</sup>Cambridge Crop Research, National Institute of Agricultural Botany (NIAB), Cambridge CB3 0LE, UK
 
+## Overview
+In this release, we uploaded the latest version of CropQuant-3D, a graphical user interface (GUI, in .exe format) based analytic software that can be utilised to carry out 3D trait analysis on LiDAR-collected point cloud data in large-scale field phenotyping. The use of backpack LiDAR or other sources can acquire millions of 3D points to represent spatial features of crops. To effectively analyse these point clouds, CropQuant-3D was developed to extract plot-based phenotypic traits from large, complex point clouds with limited computing time and power. We combined a backpack LiDAR device and CropQuant-3D to quantify crop height, 3D canopy index (3DCI, an original 3D measurement of canopy variation), 3D canopy surface, canopy coverage and biomass estimation (i.e. 3DVI and 3DPI), in a case study examining the response of wheat varieties to three different levels of nitrogen fertilisation in field experiments. The combined solution can differentiate significant genotype and treatment effects on key performance-related morphological traits and structural variation in canopy, with strong correlations with conventional manual measurements. Hence, we believe that CropQuant-3D could be used for consistently quantifying key traits at a larger scale and more quickly than heretofore possible, which could be used as a reliable research tool and jointly developed with the plant research community for large-scale and multi-location field phenotyping in crop research and breeding activities. 
+
+
 ## Install Python, Anaconda and Libraries
 If you wish to run CropQuant-3D from the code, you will need to set up Python on your system. 
 
